@@ -1,5 +1,6 @@
-### DON'T USE THIS PROXIES FOR SENSITIVE DATA!
-
+### DON'T USE THESE PROXIES FOR SENSITIVE DATA!
+#### Tested on Windows 10 / Python 3.9
+##### pip install freeproxydownloader
 <img src="https://github.com/hansalemaos/screenshots/raw/main/PROXY.png"/>
 
 
